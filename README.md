@@ -16,12 +16,12 @@ Coordinape also provides a visual reflection for DAOs to understand how value fl
 
 Coordinape is currently in an internal alpha phase, being used at Yearn Finance.  
 
-If you are interested in being in touch or gaining early access to Coordinape as a pilot organization, please fill out our Typeform survey:
+If you are interested in being in touch or gaining early access to Coordinape as a pilot organization, please fill out our <a href="https://yearnfinance.typeform.com/to/egGYEbrC" target="_blank">Typeform survey.</a>
 
 
 Other Links:
 
 <a href="https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543" target="_blank">Andre's Medium article on Coordinape</a>
 
-Coordinape Twitter
+<a href="https://twitter.com/coordinape" "target="_blank">Coordinape Twitter</a>
 
