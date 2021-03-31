@@ -14,11 +14,11 @@ Coordinape also provides a visual reflection for DAOs to understand how value fl
 
 ## How It Works
 
-Coordinape is currently implemented as an off-chain Alpha while we develop an on-chain version, using an EVM compatible L2 or side-chain.
+Coordinape is currently implemented as an off-chain alpha while we develop an on-chain version, using an EVM compatible L2 or side-chain.
 
-Coordinape is build around Circles - groups of DAO participants that wish to distribute funds together through a decentralized gifting process. Each Circle, once summoned, can define the parameters of participation -- it can grow its network permissionlessly through our NFT badging system, set parameters around certain elements of its game mechanics and toggle network visibility, either through centralized admin or internal governance.  
+Coordinape is build around Circles - groups of DAO participants that wish to distribute funds together through a decentralized gifting process. Each Circle, once summoned, can define the parameters of participation -- it can grow its network permissionlessly, set parameters around certain elements of its game mechanics and toggle network visibility, either through centralized admin or internal governance.  
 
-Circles can also start Epochs: periods of time in which its constituent body of contributors can send eachother GIVE tokens, which represent that Circle's total budget allocation.  We envision Epochs as monthly events, where contributors can consider eachother's collaboration, mutual enablement and furthering of the DAO's mission.  Each member is allocated a fixed amount of GIVE (100 by default), and can send any number of these tokens to other members freely during the Epoch. Members can also opt out if they recieve funding elsewhere, allowing them to send GIVE but not recieve it.  GIVE has no value if it is not given to another Circle member.
+Circles can also start Epochs: periods of time in which its constituent body of contributors can send eachother GIVE tokens, which represent that Circle's total budget allocation.  We envision Epochs as monthly events, where contributors can consider eachother's collaboration, mutual enablement and furthering of the DAO's mission.  Each member is allocated a fixed amount of GIVE (100 by default), and can send any number of these tokens to other Circle members freely during the Epoch. Members can also opt out if they recieve funding elsewhere, allowing them to send GIVE but not recieve it.  GIVE has no value if it is not given to another Circle member.
 
 When the Epoch ends, the GIVE each member has recieved is swapped for GET: tokens that can be exchanged for a pro rata amount of monthly treasury budget. 
 
