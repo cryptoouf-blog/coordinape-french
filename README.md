@@ -12,6 +12,14 @@ DAOs solve one half of the problems decentralized networks require, Coordinape i
 
 Coordinape also provides a visual reflection for DAOs to understand how value flows through the network.  
 
+## How It Works
+
+Coordinape is currently implemented as an off-chain Alpha while we develop an on-chain version, using a EVM compatible L2 or side-chain.
+
+Coordinape is build around Circles - groups of DAO participants that wish to distribute funds through a decentralized gifting process. Each Circle, once summoned, can define the parameters of participation -- it can grow its network permissionlessly, through our NFT badging system, set parameters around certain elements of its game mechanics and visibility, etc., either through centralized admin or internal governance.  
+
+Circles can also start Epochs, periods of time in which its constituent body of contributors can send eachother GIVE tokens, which represent a budget allocation.  We envision these as being monthly events, where contributors can consider eachother's collaboration, enablement and furthering of the DAO's mission.  Each member is allocated a fixed amount of GIVE (100 by default), and can send any number of these tokens to other members. Members can also opt out if they recieve funding elsewhere, allowing them to send GIVE but not recieve it.
+
 ## Learn More
 
 Coordinape is currently in an internal alpha phase, being used at Yearn Finance.  
