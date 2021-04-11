@@ -73,7 +73,7 @@ Here you can:
   * Avatar image, 
   * Opt In / Opt Out choice.
 
-## Graph & History Pages
+## Graph Page
 
 <img src="/images/How_to_Coordinape7.jpg">
 
@@ -85,8 +85,9 @@ Coordinape provides a real time Graph to show the network movement of GIVES amon
 
 * You can also toggle to view prior epochs, using the Epoch link at upper right.
 
+## Graph Page
 
-You can also view the History Page to see the GIVES you have received, per member, in any prior epoch. 
+The History Page allows you to see the GIVES you have received, per member, in any prior epoch. 
 
 <img src="/images/How_to_Coordinape8.jpg">
 
