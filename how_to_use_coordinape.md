@@ -33,3 +33,43 @@
 
 Either of these settings can be changed over the course of the Epoch, or for future Epochs, by accessing your profile on the Allocation Page to change them.  If you change your status to Opt Out after receiving GIVE during an epoch, any GIVE you have accrued will go back to its senders.
 
+## Edit Team Page
+
+<img src="/images/How_to_Coordinape5.jpg">
+
+Next, you will be prompted to use the Team Selection page.  This page will allow you to maintain a smaller roster of contributors, whom you have worked with closely and want to reward.
+
+<p>On this page, you may select any number of contributors, sorting or searching to find those you have interacted with the most.  </p>
+
+* Contributors are listed with the current number of GIVE you have allocated, so you can see whom you’ve already included in your allocation.
+
+* If you remove a contributor from your list after allocating them GIVE, your GIVE will be returned to you (within the active Epoch).
+
+* After selecting your initial roster, you can return to the Edit Team page at any time, linked from the header menu, to edit your group.
+
+## Allocation Page
+
+<img src="/images/How_to_Coordinape6.jpg">
+
+<p>The Allocation Page allows you to reward the teammates you have selected, by sending them GIVE.</p>
+
+Here you can:
+
+* Browse contributor profiles.  
+
+* Select whole numbers of GIVE to send to contributors.
+
+* Adjust these gifts over the course of the epoch.
+
+* View the balance of GIVE you have left.
+
+* View the balance of GIVE you have received so far.
+
+* Leave notes for contributors to thank them, whether or not you send them GIVE.
+
+* Find your own profile card to edit your:
+  * Name, 
+  * Profile statement,
+  * Avatar image, 
+  * Opt In / Opt Out choice.
+
