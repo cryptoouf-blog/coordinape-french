@@ -3,17 +3,17 @@
 
 When first visiting the Coordinape website, you will need to connect your wallet.  If you are not able to gain access, your Eth wallet likely has not been added to a Gift Circle.  Contact your administrator if this is the case.
 
-[[images/How_to_Coordinape1.jpg]]
+[[/images/How_to_Coordinape1.jpg]]
 
 If you do have access to one or more circles, you will see it on the Circle Selection page: 
 
-[[images/How_to_Coordinape3.jpg]]
+[[/images/How_to_Coordinape3.jpg]]
 
 Please note, you will have to connect your wallet when you access a circle for the first time.
 
 ## Profile Page
 
-[[images/How_to_Coordinape4.jpg]]
+[[/images/How_to_Coordinape4.jpg]]
 
 The first time you use Coordinape, you will be asked to answer a couple of questions, which will help your colleagues at Yearn to determine how to GIVE to you.
 
