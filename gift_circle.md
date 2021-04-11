@@ -1,3 +1,5 @@
+# TL;DR: The Gift Circle
+
 Coordinape’s core feature (central to the Alpha version) is the Gift Circle.  The Gift Circle allows a group of DAO contributors to decentralize the payment process, identifying eachother’s value to the organization to create a compensation map.
 
 This is done through a process of Gifting.  
