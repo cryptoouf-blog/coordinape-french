@@ -4,6 +4,7 @@
 When first visiting the Coordinape website, you will need to connect your wallet.  If you are not able to gain access, your Eth wallet likely has not been added to a Gift Circle.  Contact your administrator if this is the case.
 
 [[/images/How_to_Coordinape1.jpg]]
+<img src="How_to_Coordinape1.jpg">
 
 If you do have access to one or more circles, you will see it on the Circle Selection page: 
 
