@@ -24,5 +24,5 @@ Budget distribution is then formulated according to the percentage of total GET 
 * Joe is sent 2,500  USDC (0.05 of Budget).
 
 
-[<-Conents](welcome.md) | [How to Use the Gift Circle ->](how_to_use_coordinape.md)
+[<-Contents](welcome.md) | [How to Use the Gift Circle ->](how_to_use_coordinape.md)
 
