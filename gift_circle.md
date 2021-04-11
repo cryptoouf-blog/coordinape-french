@@ -15,7 +15,8 @@ Budget distribution is then formulated according to the percentage of total GET 
 
 ## Example
 
-Joe receives 75 GETs over the epoch from his colleagues,
-Total GETs allocated during the epoch are 1500, 
-Total Contributor Budget is 50,000 USDC
-Joe is sent 2,500  USDC (0.05 of Budget).
+* Joe receives 75 GETs over the epoch from his colleagues,
+* Total GETs allocated during the epoch are 1500, 
+* Total Contributor Budget is 50,000 USDC
+
+* Joe is sent 2,500  USDC (0.05 of Budget).
