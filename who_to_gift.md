@@ -9,3 +9,5 @@ Use your own judgment in allocating GIVEs. In general, give them when you have f
 Try not to allocate GIVEs based on who is “supposed” to get them, or based on hype. Give them where you see value  happen. Give them to people that help you.
 
 Don’t worry too much about getting the numbers right, go with your heart.
+
+[<-Conents](welcome.md) | 
