@@ -10,4 +10,4 @@ Try not to allocate GIVEs based on who is “supposed” to get them, or based o
 
 Don’t worry too much about getting the numbers right, go with your heart.
 
-[<-Conents](welcome.md) | 
+[<-Contents](welcome.md) | 
