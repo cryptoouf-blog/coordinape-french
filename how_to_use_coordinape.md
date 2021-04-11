@@ -22,9 +22,9 @@
 
 <p>The first time you use Coordinape, you will be asked to answer a couple of questions, which will help your colleagues at Yearn to determine how to GIVE to you.</p>
 
-<p>The first one is a __Profile Statement__.  This can be anything.  It is public for anyone in the Circle to read, and can be used to detail the work you have done this month or clarify what you have been compensated for, and what you want to be compensated for in Coordinape.</p>
+<p>The first one is a Profile Statement.  This can be anything.  It is public for anyone in the Circle to read, and can be used to detail the work you have done this month or clarify what you have been compensated for, and what you want to be compensated for in Coordinape.</p>
 
-<p>The second question is if you will __Opt In or Opt Out__ from receiving GIVE for this epoch.  </p>
+<p>The second question is if you will Opt In or Opt Out from receiving GIVE for this epoch.  </p>
 
 
 * If you *Opt Out*, you are signaling that you have other income streams at Yearn which are significant, and you should not be getting Contributor Grant allocations. It will be impossible for others to give to you.
