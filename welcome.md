@@ -1,6 +1,6 @@
 # Welcome to Coordinape
 
-This section of docs has been prepaired for organizations that are newly getting to know Coordinape.
+This section of docs has been prepaired for organizations that are newly getting to know Coordinape.  Read through the links below for the general premise and vision of Coordinape, how to use the application in its current state and best practices.
 
 ## Contents
 
