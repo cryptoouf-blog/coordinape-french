@@ -1,4 +1,4 @@
-<img src="/images/ape4.jpg></img>
+<img src="/images/ape4.jpg"></img>
 
 # Welcome to Coordinape
 
