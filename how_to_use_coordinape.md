@@ -22,14 +22,14 @@
 
 <p>The first time you use Coordinape, you will be asked to answer a couple of questions, which will help your colleagues at Yearn to determine how to GIVE to you.</p>
 
-<p>The first one is a **Profile Statement**.  This can be anything.  It is public for anyone in the Circle to read, and can be used to detail the work you have done this month or clarify what you have been compensated for, and what you want to be compensated for in Coordinape.</p>
+<p>The first one is a *Profile Statement*.  This can be anything.  It is public for anyone in the Circle to read, and can be used to detail the work you have done this month or clarify what you have been compensated for, and what you want to be compensated for in Coordinape.</p>
 
-<p>The second question is if you will **Opt In or Opt Out** from receiving GIVE for this epoch.  </p>
+<p>The second question is if you will *Opt In or Opt Out* from receiving GIVE for this epoch.  </p>
 
-<p>
-* If you **Opt Out**, you are signaling that you have other income streams at Yearn which are significant, and you should not be getting Contributor Grant allocations. It will be impossible for others to give to you.
 
-* If you **Opt In**, you will be able to receive grants.  You may use the Profile Statement to detail why.
+* If you *Opt Out*, you are signaling that you have other income streams at Yearn which are significant, and you should not be getting Contributor Grant allocations. It will be impossible for others to give to you.
+
+* If you *Opt In*, you will be able to receive grants.  You may use the Profile Statement to detail why.
 
 Either of these settings can be changed over the course of the Epoch, or for future Epochs, by accessing your profile on the Allocation Page to change them.  If you change your status to Opt Out after receiving GIVE during an epoch, any GIVE you have accrued will go back to its senders.
-</p>
+
