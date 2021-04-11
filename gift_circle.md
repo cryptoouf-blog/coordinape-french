@@ -22,3 +22,6 @@ Budget distribution is then formulated according to the percentage of total GET 
 * Total Contributor Budget is 50,000 USDC
 
 * Joe is sent 2,500  USDC (0.05 of Budget).
+
+
+<- Onboarding Docs Contents | How to Use the Gift Circle ->
