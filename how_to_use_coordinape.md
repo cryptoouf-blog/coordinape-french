@@ -93,4 +93,4 @@ The History Page allows you to see the GIVES you have received, per member, in a
 
 This will page will also display your received notes.
 
-[<-Conents](welcome.md) | [Who To Gift ->](who_to_gift.md)
+[<-Contents](welcome.md) | [Who To Gift ->](who_to_gift.md)
