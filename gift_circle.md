@@ -25,4 +25,4 @@ Budget distribution is then formulated according to the percentage of total GET 
 
 
 
-**< a href="how_to_use_coordinape.md">How to Use the Gift Circle ->**</a>
+[link text] (how_to_use_coordinape.md "How to")How to Use the Gift Circle ->
