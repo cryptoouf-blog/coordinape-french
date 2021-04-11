@@ -16,4 +16,4 @@ We are testing Coordinape in phases to understand the social dynamics. For the f
 
 Coordinape is currently implemented off-chain, to allow rapid changes and iteration as we research the best applications of core ideas.  Simultaneously, we are working on an on-chain version, to be implemented on a layer 2 EVM compatible side-chain as we launch our Beta offering.
 
-[The Gift Circle->]<gift_circle.md)
+[<-Conents](welcome.md) | [The Gift Circle->](gift_circle.md)
