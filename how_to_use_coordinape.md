@@ -1,16 +1,20 @@
+# How To Use Coordinape
+
+<p>In this section, you will find an overview of how Coordinape's web application is used.</p>
+
 
 ## Circle Selection
 
-When first visiting the Coordinape website, you will need to connect your wallet.  If you are not able to gain access, your Eth wallet likely has not been added to a Gift Circle.  Contact your administrator if this is the case.
+<pWhen first visiting the Coordinape website, you will need to connect your wallet.  If you are not able to gain access, your Eth wallet likely has not been added to a Gift Circle.  Contact your administrator if this is the case.
 
 
 <img src="/images/How_to_Coordinape1.jpg">
 
-If you do have access to one or more circles, you will see it on the Circle Selection page: 
+<pIf you do have access to one or more circles, you will see it on the Circle Selection page: </p>
 
 <img src="/images/How_to_Coordinape3.jpg">
 
-Please note, you will have to connect your wallet when you access a circle for the first time.
+<pPlease note, you will have to connect your wallet when you access a circle for the first time.</p>
 
 ## Profile Page
 
