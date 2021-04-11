@@ -73,3 +73,22 @@ Here you can:
   * Avatar image, 
   * Opt In / Opt Out choice.
 
+## Graph & History Pages
+
+<img src="/images/How_to_Coordinape7.jpg">
+
+Coordinape provides a real time Graph to show the network movement of GIVES among the group.
+
+* Click on an avatar to see an animated representation of the GIVE flowing to and from each member.
+
+* Bands around the member represent the total GIVE that member has received in the epoch.
+
+* You can also toggle to view prior epochs, using the Epoch link at upper right.
+
+
+You can also view the History Page to see the GIVES you have received, per member, in any prior epoch. 
+
+<img src="/images/How_to_Coordinape8.jpg">
+
+This will page will also display your received notes.
+
