@@ -1,7 +1,5 @@
 # Coordinape's Vision
 
-Giving the 
-
 ## Building DAO Operations
 
 DAOs have revolutionized our facility for coordinating decision-making via coin-voting, but the shortfalls of these broad consensus-finding mechanisms have become very apparent as we’ve put them to the test across hundreds of communities over the past year. 
