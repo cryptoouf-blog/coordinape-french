@@ -1,16 +1,14 @@
 # Welcome to Coordinape
 
-Coordinape is a scalable and permissionless platform for decentralized operations built by Yearn for the demanding needs of our community and other emerging DeFi protocols. 
+Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created. 
 
 ## Vision
 
-Where DAOs have revolutionized our facility for coordinating decision-making via coin-voting, the shortfalls of these broad consensus-finding mechanisms have become very apparent as we’ve put them to the test across hundreds of communities over the past year. 
+The promise of DAOs is decentralized collaboration, where teams of people can solve hard problems together and share in the rewards of the work. As the revolutionary potential of DAOs becomes increasingly apparent, so do their challenges and limitations... especially by those operating within them. Coordinape aims to make the actual experience of people working in DAOS more dynamic, rewarding and fair. 
 
-While DAOs are often used to micro-manage growing protocols operational decisions such as hiring and compensation, the average coin-holder often lacks the time or expertise to add useful independent agency to a system and is often merely rubber stamping initiatives based on their trust, or lack of trust, in the core team. 
+Coordinape moves more decision making to the community. The simple premise is that if you ask everyone in the community who is doing good work, their collective answers will give a good sense of where the value is and who should be most rewarded. Over time, this also provides valuable insights for the DAO about what kinds of work is prioritized, what the community finds most valuable, and who are the key contributors in different areas. The shared visual display also enables everyone in the community to see who is working on what and find opportunities for collaboration or reduce duplication of effort. 
 
-DAOs solve one half of the problems decentralized networks require, Coordinape is a DO (decentralized operations) that aims to solve the other half: a structure to make operational decisions within a team of contributors. If a DAO is the decentralized version of a board of directors plus shareholders, a DO is the decentralized version of the team itself.
-
-Coordinape also provides a visual reflection for DAOs to understand how value flows through the network.  
+The focus now is on gift circles for resource distribution, but features are being added continually so that budgeting, recruiting and onboarding, project prioritization, and investments can all be done on the platform.
 
 ## How It Works
 
@@ -25,7 +23,7 @@ When the Epoch ends, the GIVE each member has recieved can be exchanged for a pr
 
 ## Learn More
 
-Coordinape is currently in an internal alpha phase, being used at Yearn Finance.  
+Coordinape is currently in an alpha phase, working with select protocols like Yearn to develop and refine the experience. A public version will be available soon. 
 
 If you are interested in being in touch or gaining early access to Coordinape as a pilot organization, please fill out our <a href="https://yearnfinance.typeform.com/to/egGYEbrC" target="_blank">Typeform survey.</a>
 
@@ -35,4 +33,6 @@ Other Links:
 <a href="https://medium.com/iearn/decentralized-payroll-management-for-daos-b2252160c543" target="_blank">Andre's Medium article on Coordinape</a>
 
 <a href="https://twitter.com/coordinape" target="_blank">Coordinape Twitter</a>
+
+<a href="https://www.youtube.com/watch?v=J8oGun8EKDE" target="_blank">Coordinape Overview video</a>
 
