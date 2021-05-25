@@ -19,6 +19,8 @@ This means that the contributor will keep their GIVE, as a normal Opt-In option.
 - Re-Gift 25%, 50%, 75%, 100%. 
 This allows the contributor to choose percentages of their received GIVE to redistribute. This option will burn GIVE received, increasing the weight of unburned GIVE that is accrued across the circle.
 
+<img src="/images/regift1.jpg">
+
 
 ## Re-Gifting Phase:
 
