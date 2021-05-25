@@ -1,7 +1,7 @@
 # New Feature: Re-Gifting
 
 The latest version of Coordinape includes a new concept: Re-Gifting. This feature will allow contributors to decide what percentage of their GIVE they would like to keep or burn. 
-This lets people distribute GIVE in a more flexible way, and removes confusion around opt-in / opt-out decisions.
+Re-gifting lets people distribute their recieved GIVE in a more flexible way, and removes confusion around opt-in / opt-out decisions.
 
 We have built this as a proof of concept, with simple choices, and encourage those that find it useful to try it out.
 
