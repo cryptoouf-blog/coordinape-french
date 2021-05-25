@@ -10,7 +10,7 @@ We have built this as a proof of concept, with simple choices, and encourage tho
 
 ## Re-Gifting Options:
 
-In the newest Coordinape version, each user can signal what they would like to do with their GIVE at the end of the epoch, by choosing a Re-Gifting amount. This is identified in the Profile page, and can be changed at any time during the epoch.
+In the newest Coordinape version, each user can signal what they would like to do with their GIVE at the end of the epoch, by choosing a Re-Gifting amount. Re-Gifting will burn give you have recieved, which will increase the wieght of all GIVE that has been given to others.  This is identified in the Epoch Settings page, and can be changed at any time during the epoch.
 
 You can choose to:
 - Re-Gift 0%. 
