@@ -24,5 +24,7 @@ This allows the contributor to choose percentages of their received GIVE to redi
 
 ## Re-Gifting Phase:
 
-The last day of the epoch will be a 1 day window during which Re-Gifting can still occur. At this time, all initial GIVE has been allocated and locked, and only Re-Gifting options can be edited. When the Re-Gifting phase concludes, final results are displayed and the treasury distribution can be prepared.
+The last day of the epoch will be a 1 day window during which Re-Gifting can still occur. At this time, all initial GIVE has been allocated and locked, and only Re-Gifting options can be edited. When the Re-Gifting phase concludes, final results are displayed and the treasury distribution can be prepared.  
+
+Please note that your epoch timer (on the Allocations Page) will not include this day.
 
