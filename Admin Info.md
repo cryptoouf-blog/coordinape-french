@@ -1,8 +1,6 @@
-<img src="/images/admin.jpg">
+<img src="/images/Admin.jpg">
 
-<p> As a Circle Admin, you will be able to edit Circle Settings, Edit Epoch settings, and edit your users.
-
-
+<p> As a Circle Admin, you will be able to edit Circle Settings, Edit Epoch settings, and edit your users. <p>
 
 ## Editing Circle Settings 
 1. Click the Edit Circle Settings button
