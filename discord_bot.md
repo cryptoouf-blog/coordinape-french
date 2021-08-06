@@ -1,4 +1,4 @@
-## How to add "Ceazar" the discord bot to your teams Discord Channel
+## How to add "Caesar" the discord bot to your teams Discord Channel
 
 1. Click Edit Channel on the specific channel you want to notifications to appear in 
 2. Go to Integrations -> View Webhook
