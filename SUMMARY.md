@@ -8,3 +8,4 @@
   * [Who To Gift](who_to_gift.md)
   * [New Feature: Re-Gifting](new-feature-regift.md)
   * [Admin  Info](Admin_Info.md)
+  * [Discord Bot](discord_bot.md)
