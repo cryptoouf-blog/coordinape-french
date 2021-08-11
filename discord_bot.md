@@ -1,3 +1,11 @@
+## What can the Discord Bot do?
+
+- Caesar can let your discord know when a users has opted out of a current epoch, and how much give was refunded.
+<img src="/images/Bot Opted Out.jpg">
+- Inform users that an epoch is active
+<img src="/images/Bot Comment.jpg">
+- Let users know when the epoch ends
+
 ## How to add "Caesar" the discord bot to your teams Discord Channel
 
 1. Click Edit Channel on the channel where you want Coordinape notifications to appear.
