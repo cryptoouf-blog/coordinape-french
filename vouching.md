@@ -9,21 +9,21 @@ However, just as DAOs themselves often form by both autonomy and osmosis, we wan
 ## Here’s how it works:
 
 Via admin controls, a circle admin can decide to enable or disable vouching.  Admins can also set the number of vouches that are needed for circle entry, the period of time a nominee remains available to vouch, and some descriptive text for the module.  
-
+<br><br>
 <img src="/images/vouching-admin2.jpg" width="auto" height="300" padding="55px">
-
+<br><br>
 A vouch is a vote by a circle contributor to invite new members.  Vouching can be as little as 1 vouch needed (any contributor can add other contributors) or could be set so that every member of the circle must vote to add a new member.  If the minimum threshold of vouches is met, the contributor can gain access to the circle.
-
+<br><br>
 <img src="/images/vouching-process.jpg" width="auto" height="233">
-
+<br><br>
 Usually, this process will start on the social layer, via conversation or collaboration leading to a realization that someone in the community should added to a circle. When this happens, any member of the circle can nominate the provisional new contributor.  They will need to add the member’s ETH address, name (such as a Discord / Telegram username) and a statement about why they are nominating .
-
+<br><br>
 <img src="/images/vouching-nominate2.jpg" width="auto" height="300">
-
+<br><br>
 Once this has been performed, other circle members will see that the potential collaborator has been nominated, and they can take the step of Vouching for the member if they so chose. 
-
+<br><br>
 <img src="/images/vouching-vouch2.jpg" width="auto" height="300">
-
+<br><br>
 If the new contributor is vouched for by enough of the circle’s current contributors to hit the circle’s vouching threshold, they are added to the circle and can log in with their favorite wallet app, set up profiles and begin to receive or send GIVE.
 
 Future features will build on this process, including the addition of more surgical toggles that can determine the status of new members.  And, admins still have the ability to remove members if mistakes are made.  
