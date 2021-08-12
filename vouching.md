@@ -10,7 +10,7 @@ However, just as DAOs themselves often form by both autonomy and osmosis, we wan
 
 Via admin controls, a circle admin can decide to enable or disable vouching.  Admins can also set the number of vouches that are needed for circle entry, the period of time a nominee remains available to vouch, and some descriptive text for the module.  
 
-<img src="/images/vouching-admin2.jpg" width="auto" height="300">
+<img src="/images/vouching-admin2.jpg" width="auto" height="300" padding="20px">
 
 A vouch is a vote by a circle contributor to invite new members.  Vouching can be as little as 1 vouch needed (any contributor can add other contributors) or could be set so that every member of the circle must vote to add a new member.  If the minimum threshold of vouches is met, the contributor can gain access to the circle.
 
