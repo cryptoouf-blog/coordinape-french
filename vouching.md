@@ -14,9 +14,9 @@ Via admin controls, a circle admin can decide to enable or disable vouching.  A
 
 A vouch is a vote by a circle contributor to invite new members.  Vouching can be as little as 1 vouch needed (any contributor can add other contributors) or could be set so that every member of the circle must vote to add a new member.  If the minimum threshold of vouches is met, the contributor can gain access to the circle.
 
-Usually, this process will start on the social layer, via conversation or collaboration leading to a realization that someone in the community should added to a circle.
+<img src="/images/vouching-process.jpg">
 
-When this happens, any member of the circle can nominate the provisional new contributor.  They will need to add the member’s ETH address, name (such as a Discord / Telegram username) and a statement about why they are nominating .
+Usually, this process will start on the social layer, via conversation or collaboration leading to a realization that someone in the community should added to a circle. When this happens, any member of the circle can nominate the provisional new contributor.  They will need to add the member’s ETH address, name (such as a Discord / Telegram username) and a statement about why they are nominating .
 
 <img src="/images/vouching-nominate2.jpg">
 
