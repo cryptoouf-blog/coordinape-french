@@ -9,4 +9,5 @@
   * [New Feature: Re-Gifting](new-feature-regift.md)
   * [Admin  Info](Admin_Info.md)
   * [Discord Bot](discord_bot.md)
+  * [Vouching](vouching.md)
   * [Community Calls](Community_calls.md)
