@@ -4,7 +4,7 @@
 
 <p>Up to now, the Coordinape application has only allowed circle access via admin controls.  This will likely always be a useful option, and some circles may choose to maintain this practice alone in an ongoing fashion (which, of course, we will support).</p>
 
-<p>However, just as DAOs often form by autonomy and osmosis, we wanted to include more decentralized options by which a circle can grow.  Our new Vouching process allows members to onboard new collaborators through a simple and flexible consensus mechanism, with benchmarks of membership determined by the circle itself. Using the Vouching system's features, circles may determine their porosity via threshold settings, and contributors in a circle can actively engage in the management of its growth.</p>
+<p>However, just as DAOs often form by autonomy and osmosis, we wanted to include more decentralized options by which a circle can grow.  Our new Vouching system allows members to onboard new collaborators through a simple and flexible consensus mechanism. With Vouching, circles may determine their porosity via threshold settings, and contributors in a circle can actively engage in the management of its growth.</p>
 
 ## Here’s how it works:
 
