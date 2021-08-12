@@ -1,6 +1,6 @@
 ## New Coordinape Feature: The Discord Bot
 
-Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegram.  Hence, our bot features have (until now) been centered around that platform.  Now, we've begun to port our bot to Discord, as well as added easy integration functionality to the Coordinape admin panel.  Read on for an overview and how to set it up.  More features will be added to the bot over time.
+Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegram.  Hence, our bot features have (until now) been centered around that platform.  Now, we've begun to port our bot to Discord, and added easy webhook integration functions to the Coordinape admin panel.  Read on for an overview and how to set it up.  More features will be added to the bot over time.
 
 ## What can the Discord Bot do?
 
