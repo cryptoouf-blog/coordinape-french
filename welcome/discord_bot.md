@@ -44,7 +44,9 @@ Coordinape a été initialement conçu pour Yearn Finance, une DAO qui utilise �
 
 ![](../.gitbook/assets/Discord%20Webook.jpg)
 
-### BOOM! Vous avez maintenant Caesar à vos côtés pour vous aider à garder une trace des epochs actifs, vous avertir lorsque les utilisateurs réalisent des allocations et vous permettre de savoir lorsqu'un utilisateur se désengage \(opt-out\). Nous ajouterons des fonctionnalités au bot au fil du temps, mais en attendant, nous espérons que vous apprécierez ces fonctionnalités !!
+### BOOM! Vous avez maintenant Caesar qui vous aide à garder une trace des epoch actifs, vous avertit lorsque les utilisateurs realisent des allocations et vous permet de savoir si un utilisateur se désengage. Nous ajouterons des fonctionnalités au bot au fil du temps, mais en attendant, nous espérons que vous apprécierez ces fonctionnalités !!
+
+
 
 Si vous appréciez _ce Bot_, faite le savoir à Zashton ! 
 
