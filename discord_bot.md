@@ -22,7 +22,7 @@ Coordinape was built initially for Yearn Finance, a DAO that heavily uses Telegr
 4. Go to Coordinape app where you're an Admin and click the Admin Tab
 <img src="/images/Admin.jpg">
 5. Edit Circle Settings Button and click on edit webhook
-<img src="/images/Circle Settings.jpg">
+<img src="/images/Edit Webhook.png">
 6. paste the webhook url from the Discord bot into textfield and click save
 <img src="/images/Discord Webook.jpg">
 
