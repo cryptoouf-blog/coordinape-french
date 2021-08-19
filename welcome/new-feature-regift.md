@@ -1,25 +1,25 @@
-# New Feature: Re-Gifting
+# Nouvelle Fonctionnalité: Re-Gifting
 
-The latest version of Coordinape includes a new concept: Re-Gifting. This feature will allow contributors to decide what percentage of their GIVE they would like to keep or burn. Re-gifting lets people distribute their recieved GIVE in a more flexible way, and removes confusion around opt-in / opt-out decisions.
+La dernière version de Coordinape comprend un nouveau concept : Re-Gifting. Cette fonctionnalité permettra aux contributeurs de décider quel pourcentage de leur GIVE ils souhaitent conserver ou brûler. Le re-cadeau permet aux gens de distribuer leur GIVE reçu d'une manière plus flexible, et supprime la confusion autour des décisions d'opt-in/opt-out. 
 
-We have built this as a proof of concept, with simple choices, and encourage those that find it useful to try it out.
+Nous l'avons construit comme une preuve de concept, avec des choix simples, et encourageons ceux qui le trouvent utile à l'essayer. 
 
-\*\* Please note that Re-Gifting has replaced Opt-Out. If you would like to opt out, you can choose to Re-Gift 100% of your tokens this epoch.
+\*\* Veuillez noter que Re-Gifting a remplacé l'Opt-Out. Si vous souhaitez vous désinscrire, vous pouvez choisir de re-donner 100% de vos jetons à cette époque.
 
-## Re-Gifting Options:
+## Re-Gifting Options: <a id="re-gifting-options"></a>
 
-In the newest Coordinape version, each user can signal what they would like to do with their GIVE at the end of the epoch, by choosing a Re-Gifting amount. Re-Gifting will burn give you have recieved, which will increase the wieght of all GIVE that has been given to others. This is identified in the Epoch Settings page, and can be changed at any time during the epoch.
+Dans la dernière version de Coordinape, chaque utilisateur peut signaler ce qu'il souhaite faire avec son DONNE à la fin de l'époque, en choisissant un montant de Re-Gifting. Re-Gifting brûlera les dons que vous avez reçus, ce qui augmentera le poids de tous les dons qui ont été donnés aux autres. Ceci est identifié dans la page Paramètres d'époque et peut être modifié à tout moment au cours de l'époque.
 
-You can choose to:
+Vous pouvez choisir de:
 
-* Re-Gift 0%. This means that the contributor will keep their GIVE, as a normal Opt-In option.
-* Re-Gift 25%, 50%, 75%, 100%. This allows the contributor to choose percentages of their received GIVE to redistribute. This option will burn GIVE received, increasing the weight of unburned GIVE that is accrued across the circle.
+* Re-Gift 0%. Cela signifie que le contributeur conservera son GIVE, comme une option normale d'Opt-In.
+* Re-Gift 25%, 50%, 75%, 100%. Cela permet au contributeur de choisir des pourcentages de leur DONNE reçu à redistribuer. Cette option brûlera le GIVE reçu, augmentant le poids du GIVE non brûlé accumulé dans le cercle.
 
-![](../.gitbook/assets/regift1.jpg)
+![](https://gblobscdn.gitbook.com/assets%2F-MX77lu5R_CzCjd-WXoZ%2Fsync%2F8eb1081111653784960920bee120505ff6132591.jpg?alt=media)
 
-## Re-Gifting Phase:
+## Re-Gifting Phase: <a id="re-gifting-phase"></a>
 
-The last day of the epoch will be a 1 day window during which Re-Gifting can still occur. At this time, all initial GIVE has been allocated and locked, and only Re-Gifting options can be edited. When the Re-Gifting phase concludes, final results are displayed and the treasury distribution can be prepared.
+Le dernier jour de l'époque sera une fenêtre d'un jour pendant laquelle Re-Gifting peut encore se produire. À ce stade, tous les GIVE initiaux ont été alloués et verrouillés, et seules les options de Re-Gifting peuvent être modifiées. Lorsque la phase de Re-Gifting se termine, les résultats finaux sont affichés et la distribution de trésorerie peut être préparée. 
 
-Please note that your epoch timer \(on the Allocations Page\) will not include this day.
+Veuillez noter que votre chronomètre d'époque \(sur la page des allocations\) n'inclura pas ce jour.
 
