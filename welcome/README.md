@@ -4,7 +4,5 @@
 
 ## Bienvenue sur Coordinape
 
-This section of docs has been prepaired for organizations that are newly getting to know Coordinape. Follow links below for the general premise and vision of Coordinape, how to use the application, and best practices.
-
-If you have questions or if something doesn't match how the docs are displayed please reach out in the [discord](https://discord.gg/PjWyE2eG)!
+Cette section de la doc a été préparée pour les organisations qui découvrent  Coordinape. Suivez les liens ci-dessous pour en savoir plus sur le principe général et la vision de Coordinape, comment utiliser l'application et connaitre les meilleures pratiques. Si vous avez des questions ou si quelque chose ne semble pas claire, veuillez nous contacter via notre [discord](https://discord.gg/PjWyE2eG)!
 
