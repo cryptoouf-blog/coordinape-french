@@ -1,6 +1,6 @@
-# Vouching
+# Se porter garant \(Vouching\)
 
-### New Feature: The Vouching System
+### Nouvelle Fonctionnalité : Le systeme de Vouching 
 
 The DAO landscape is founded on self management and contribution, and we often hear the question: how should new contributors be inducted into a Gift Circle? While the borders of DAO membership might be as simple as landing in a Discord server or collecting NFTs or tokens, the additional trust layer of joining a circle to GIVE or receive may have different considerations. This may be performed by consensus, self determination, admin decisions or a blend of the three. Coordinape leaves this up to you.
 

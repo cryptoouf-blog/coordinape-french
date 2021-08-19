@@ -9,6 +9,6 @@
   * [Nouvelle Fonctionnalité: Re-Gifting](welcome/new-feature-regift.md)
   * [Infos pour les admins](welcome/admin_info.md)
   * [Bot Discord](welcome/discord_bot.md)
-  * [Vouching](welcome/vouching.md)
+  * [Se porter garant \(Vouching\)](welcome/vouching.md)
   * [Community Calls](welcome/community_calls.md)
 
