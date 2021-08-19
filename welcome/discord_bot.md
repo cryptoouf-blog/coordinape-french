@@ -38,7 +38,7 @@ Coordinape a été initialement conçu pour Yearn Finance, une DAO qui utilise �
 
 5. Cliquer le bouton  **Edit Circle Settings** et cliquez sur **Edit webhook**
 
-   ![](../.gitbook/assets/Circle%20Settings.jpg)
+   ![](../.gitbook/assets/edit-webhook.png)
 
 6. Coller l'url  webhook du bot Discord \(étape 3\) dans le champ dédié puis cliquez sur **Save**
 
