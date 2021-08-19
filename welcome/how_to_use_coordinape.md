@@ -1,81 +1,84 @@
-# How To Use Coordinape
+# Comment utiliser Coordinape
 
-In this section, you will find an overview of how Coordinape's web application is used.
+Dans cette section, vous trouverez un aperçu de l'utilisation de l'application web de Coordinape.
 
-## Circle Selection
+## Sélection du Cercle \(circle\) <a id="circle-selection"></a>
 
-When first visiting the Coordinape website, you will need to connect your wallet. If you are not able to gain access, your Eth wallet likely has not been added to a Gift Circle. Contact your administrator if this is the case.
+Lors de votre première visite sur le site Coordinape, vous devrez connecter votre portefeuille. Si vous cela ne fonctionne pas, votre portefeuille Eth n'a probablement pas encore été ajouté à un cercle. Contactez votre administrateur si tel est le cas.
 
 ![](../.gitbook/assets/How_to_Coordinape1.jpg)
 
-If you do have access to one or more circles, you will see it on the Circle Selection page:
+Si vous avez accès à un ou plusieurs cercles, vous le verrez sur la page de sélection des cercles \(**your circles**\) :
 
 ![](../.gitbook/assets/How_to_Coordinape3.jpg)
 
-Please note, you will have to connect your wallet when you access a circle for the first time.
+A noter: vous devrez connecter votre portefeuille lorsque vous accéderez à un cercle pour la première fois.
 
-## Profile Page
+## Page de profil \(Profile\)
 
 ![](../.gitbook/assets/How_to_Coordinape4.jpg)
 
-The first time you use Coordinape, you will be asked to answer a couple of questions, which will help your colleagues at Yearn to determine how to GIVE to you.
+La première fois que vous utilisez Coordinape, il vous sera demandé de répondre à quelques questions, ce qui aidera vos collègues à déterminer combien de GIVE vous donner.
 
-The first one is a Profile Statement. This can be anything. It is public for anyone in the Circle to read, and can be used to detail the work you have done this month or clarify what you have been compensated for, and what you want to be compensated for in Coordinape.
+ La première est une description de votre profil. Cela peut être n'importe quoi. Il est public et sera visible par tous les membres du Cercle. ll peut donc être utilisé pour détailler le travail que vous avez effectué ce mois-ci ou clarifier ce pour quoi vous avez été rémunéré et ce pour quoi vous souhaitez être rémunéré durant cet epoch.
 
-The second question is if you will Opt In or Opt Out from receiving GIVE for this epoch.
+ La deuxième question est de savoir si vous allez accepter ou refuser de recevoir des GIVE pour durant cet epoch.
 
-* If you _Opt Out_, you are signaling that you have other income streams at Yearn which are significant, and you should not be getting Contributor Grant allocations. It will be impossible for others to give to you.
-* If you _Opt In_, you will be able to receive grants. You may use the Profile Statement to detail why.
+*  Si vous vous excluez \(_Opt Out\)_, vous signalez que vous avez d'autres sources de revenus provenant de Yearn qui sont importantes et que vous ne devriez pas recevoir de récompenses via coordinape. Il est également de sélectionner cette option, si vous n'avez pas contribué durant le mois \(ou la période définie\) precedent.  Il sera impossible pour les autres de vous donner des GIVE.
 
-Either of these settings can be changed over the course of the Epoch, or for future Epochs, by accessing your profile on the Allocation Page to change them. If you change your status to Opt Out after receiving GIVE during an epoch, any GIVE you have accrued will go back to its senders.
+* Si vous vous inscrivez \(_Opt In\),_ vous pourrez recevoir des GIVE. Vous pouvez utiliser la description de votre profil pour expliquer qu'elles en sont les raisons. 
 
-## Edit Team Page
+L'un ou l'autre de ces paramètres peut être modifié au cours de l'epoch, ou pour les epochs futurs, en accédant à votre profil sur la page d'allocation \(Allocation Page \) pour les modifier. Si vous changez votre statut en Opt Out après avoir reçu des GIVE pendant un epoch, tous les GIVE que vous avez accumulés seront renvoyés aux personnes vous les ayants alloués.
+
+## Éditer la page d'équipe \(Team Page\)
 
 ![](../.gitbook/assets/How_to_Coordinape5.jpg)
 
-Next, you will be prompted to use the Team Selection page. This page will allow you to maintain a smaller roster of contributors, whom you have worked with closely and want to reward.
+Vous serez  ensuite invité à utiliser la page de Sélection d'équipe \(Team Page\). Cette page vous permettra de choisir une petite liste de contributeurs, avec lesquels vous avez travaillé en étroite collaboration et que vous souhaitez récompenser. 
 
-On this page, you may select any number of contributors, sorting or searching to find those you have interacted with the most.
+Sur cette page, vous pouvez sélectionner n'importe quel nombre de contributeurs, les trier ou chercher directement un membre avec son nom, pour trouver ceux avec lesquels vous avez le plus interagi.
 
-* Contributors are listed with the current number of GIVE you have allocated, so you can see whom you’ve already included in your allocation.
-* If you remove a contributor from your list after allocating them GIVE, your GIVE will be returned to you \(within the active Epoch\).
-* After selecting your initial roster, you can return to the Edit Team page at any time, linked from the header menu, to edit your group.
+* Le nombre de GIVE déjà alloué à chaque contributeur est indiqué pour que vous puissiez voir y retrouver plus facilement.
+* Si vous supprimez un contributeur de votre liste après lui avoir attribué des GIVE, ses GIVE vous seront restitués \(dans l'epoch en cours\).
+* Après avoir sélectionné votre liste initiale, vous pouvez revenir sur cette page pour modifier votre équipe.
 
-## Allocation Page
+##  Page d'Allocation \(Allocation page\) <a id="allocation-page"></a>
 
 ![](../.gitbook/assets/How_to_Coordinape6.jpg)
 
-The Allocation Page allows you to reward the teammates you have selected, by sending them GIVE.
 
-Here you can:
 
-* Browse contributor profiles.
-* Select whole numbers of GIVE to send to contributors.
-* Adjust these gifts over the course of the epoch.
-* View the balance of GIVE you have left.
-* View the balance of GIVE you have received so far.
-* Leave notes for contributors to thank them, whether or not you send them GIVE.
-* Find your own profile card to edit your:
-  * Name, 
-  * Profile statement,
-  * Avatar image, 
-  * Opt In / Opt Out choice.
+La page Allocation vous permet de récompenser les membres que vous avez sélectionnés, en leur envoyant des GIVE.
 
-## Graph Page
+ Ici vous pouvez :
+
+* Parcourir les profils des contributeurs.
+* Sélectionnez le nombre de GIVE que vous souhaitez envoyer aux contributeurs \(nombre entier\).
+* Ajustez ces dons au cours de l'epoch.
+* Consultez le solde de GIVE qu'il vous reste.
+* Consultez le solde de GIVE que vous avez reçu jusqu'à présent.
+* Laissez des notes aux contributeurs pour les remercier. Vous n'avez pas besoin d'allouer des GIVE pour laisser une note. 
+* Vous pouvez également modifier  votre profil :
+  * Nom,
+  * Description,
+  * Image d'Avatar,
+  * Choix de Opt In / Opt Out .
+
+## La page avec le graph de répartition \(Graph Page\) <a id="graph-page"></a>
 
 ![](../.gitbook/assets/How_to_Coordinape7.jpg)
 
-Coordinape provides a real time Graph to show the network movement of GIVES among the group.
+Coordinape fournit un graphique en temps réel pour montrer le mouvement de GIVE au sein d'un cercle.
 
-* Click on an avatar to see an animated representation of the GIVE flowing to and from each member.
-* Bands around the member represent the total GIVE that member has received in the epoch.
-* You can also toggle to view prior epochs, using the Epoch link at upper right.
+* Cliquez sur un avatar pour voir une représentation animée du GIVE circulant vers et depuis chaque membre. 
+* Les bandes autour du membre représentent le nombre de GIVE total que le membre a reçu durant l'epoch.
+*  Vous pouvez également basculer pour afficher les époques précédentes, en utilisant le lien Epoch en haut à droite.
 
-## Graph Page
+## Page de l'historique \(History Page\)
 
-The History Page allows you to see the GIVES you have received, per member, in any prior epoch.
+La page Historique vous permet de voir les GIVES que vous avez reçus, par membre, à n'importe quel epoch qui a déjà eu lieu.
 
 ![](../.gitbook/assets/How_to_Coordinape8.jpg)
 
-This will page will also display your received notes.
+Cette page affiche également les messages que vous avez reçus. 
 

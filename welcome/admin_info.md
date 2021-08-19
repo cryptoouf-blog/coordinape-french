@@ -1,51 +1,51 @@
-# Admin  Info
+# Infos pour les admins
 
 ![](../.gitbook/assets/Admin.jpg)
 
- As a Circle Admin, you will be able to edit Circle Settings, Edit Epoch settings, and edit your users. 
+En tant qu'administrateur de Cercles, vous pourrez modifier les paramètres du Cercle, modifier les paramètres de l'Epoch et éditer les paramètres utilisateurs.
 
-## Editing Circle Settings
+## Éditer les paramètres du Cerle \(Circle Settings\)
 
-1. Click the Edit Circle Settings button
-2. Fill out the circle Name
-3. Fill out the token name
-4. Fill out the Teammate selection text
-5. Fill out the allocation page text
+1. Cliquez sur le bouton **Edit Circle Settings** 
+2. Indiquez le **Circle Name** \(non du cercle\)
+3. Indiquez le **token name** \(nom du jeton\)
+4. Remplissez la **Teammate selection text** \(message qui sera affiché lorsque les members choisiront leur "team"\)
+5. Remplissez la **allocation page text**  \(message qui sera affiché lorsque les members réaliseront leur allocation\)
 
-   ![](../.gitbook/assets/Circle%20Settings.jpg)
 
-## Editing Epoch Settings
 
-1. Click Edit Epoch Settings
-2. Select and Epoch Start and End Date \(Recurring feature coming soon™\)
-3. Click Save
-4. You can also delete any Epoch that's not active. 
+![](../.gitbook/assets/Circle%20Settings.jpg)
+
+## Editer les parametres de l'EPoch \(Epoch Settings\)
+
+1. Cliquez sur **Epoch Settings**
+2. Selectionner un date de commencement de de fin. \( Epoch Start et End Date\) \(une fonction de recurrence arrive bientot™\)
+3. Cliquez sur **Save**
+4. Vous pouvez aussi supprimer les Epochs qui ne sont pas actifs
 
    ![](../.gitbook/assets/Epoch%20Settings.jpg)
 
    ![](../.gitbook/assets/Epoch%20Settings2.jpg)
 
-## Adding Users/Editing User Settings
+## Ajouter des Utilisateurs/ Editer les paremetres Utilisateurs \(Users/Editing User Settings\)
 
-1. Users are added to a circle by clicking the Add Contributor button and users may be edited by clicking the pencil next to their name.
-
-   **Take extra care when entering users information, their wallet address should be a valid address and not have any leading or trailing spaces, and cannot already be used in that circle.**
-
-   \(If you have a large number of users reach out to us on the discord and we can assist with a CSV Upload\)
+1. Les utilisateurs sont ajoutés à un cercle en cliquant sur le bouton **Add Contributor**  et les profils des utilisateurs peuvent être modifiés en cliquant sur le crayon à côté de leur nom. **Faites très attention lorsque vous saisissez les informations des utilisateurs, leur adresse de portefeuille doit être une adresse valide et ne comporter aucun espace au début ou à  fin, et elle ne peut pas déjà être utilisée dans ce cercle**. \(Si vous avez un grand nombre d'utilisateurs, contactez-nous sur Discord, nous pourrons vous aider en téléchargeant un fichier CSV\)
 
 ![](../.gitbook/assets/User%20View.jpg)
 
-1. Then you can enter their name, starting tokens, admin status, force opt-out, and whether or not they can send GIVE
+2. Ensuite, vous pouvez entrer leur nom, la quantité de jetons à distribuer, leur statut \(administrateur ou non\), forcer l'opt-out et s'ils peuvent ou non envoyer GIVE 
 
 ![](../.gitbook/assets/Edit%20User.jpg)
 
-1. Force Opt Out will prevent the user from receiving Give. The user will be alerted to this change via the Telegram Bot, and on the allocations page. If they have had any give allocated prior to making that save it will all be removed, and users who had allocated to them will have to re-allocate to other users. 
+3. Forcer la désinscription \(opt-out\) empêchera l'utilisateur de recevoir des GIVEs. L'utilisateur sera alerté de ce changement via le Telegram Bot et sur la page des allocations. S'il leur a été attribué des GIVE avant de faire cette sauvegarde, ils seront tous supprimés et les utilisateurs qui les ont attribués devront les réattribuer à d'autres utilisateurs.
+
+![](https://gblobscdn.gitbook.com/assets%2F-MX77lu5R_CzCjd-WXoZ%2Fsync%2F5ea725a8431ef06248e78112e8e45e4a9c3b16fd.jpg?alt=media)
 
 ![](../.gitbook/assets/Opt%20Out.jpg)
 
-1. You can also delete users from the Circle by clicking the trashcan.
+4. Vous pouvez également supprimer des utilisateurs du Cercle en cliquant sur la corbeille.
 
-   **You can also export a CSV of the epoch data for analysis.**
+**Vous pouvez également un fichier .CSV a la fin de chaque epoch pour réaliser des analyses.**
 
 ![](../.gitbook/assets/Export.jpg)
 
