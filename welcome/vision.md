@@ -6,7 +6,7 @@ Les DAOs ont révolutionné notre capacité à coordonner la prise de décision 
 
 Alors que les DAO sont souvent utilisées pour gérer les nombreuses décisions opérationnelles d'un protocole en pleine croissance, telles que l'embauche et la rémunération, le détenteur moyen de jeton manque souvent de temps ou d'expertise pour apporter sa pièce à l'édifice. Il va donc le plus souvent, soit s'abstenir, soit approuver des initiatives basées sur la confiance, ou le manque de confiance, dans l'équipe. 
 
-Les DAO résolvent la moitié des problèmes que les réseaux décentralisés rencontrent, en définissant la gouvernance. Coordinape est une plateforme DO \(decentralized operation = opération décentralisée\) qui vise à résoudre l'autre moitié: une structure pour prendre des décisions opérationnelles au sein d'une équipe de contributeurs. Si une DAO est la version décentralisée d'un conseil d'administration, plus les actionnaires, une DO est la version décentralisée de l'équipe de direction, plus les contributeurs eux-mêmes.
+Les DAO résolvent la moitié des problèmes que les réseaux décentralisés rencontrent, en définissant la gouvernance. Coordinape est une plateforme DO \(decentralized operation = opération décentralisée\) qui vise à résoudre l'autre moitié : une structure pour prendre des décisions opérationnelles au sein d'une équipe de contributeurs. Si une DAO est la version décentralisée d'un conseil d'administration, plus les actionnaires, une DO est la version décentralisée de l'équipe de direction, plus les contributeurs eux-mêmes.
 
 ## Disponible maintenant <a id="roll-out"></a>
 
