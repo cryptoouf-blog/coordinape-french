@@ -2,11 +2,11 @@
 
 ## Nouvelle Fonctionnalité : Le Bot Discord
 
-Coordinape a été initialement conçu pour Yearn Finance, une DAO qui utilise énormément Telegram. Par conséquent, nos fonctionnalités de bot ont \(jusqu'à présent\) été centrées sur cette plate-forme. Nous avons maintenant commencé développer notre bot pour Discord et avons ajouté des fonctions d'intégration de webhook faciles au panneau d'administration de Coordinape. Lisez la suite pour en savoir plus et savoir comment le configurer. Plus de fonctionnalités seront ajoutées au bot au fil du temps.
+Coordinape a été initialement conçu pour Yearn Finance, une DAO qui utilise énormément Telegram. Par conséquent, nos fonctionnalités de bot ont \(jusqu'à présent\) été centrées sur cette plate-forme. Nous avons maintenant commencé à développer notre bot pour Discord et avons ajouté des fonctions d'intégration webhook faciles au panneau d'administration de Coordinape. Lisez la suite pour en savoir plus et savoir comment le configurer. Plus de fonctionnalités seront ajoutées au bot au fil du temps.
 
 ## Qu'est-ce que le Bot Discord peut faire ?
 
-* Caesar peut informer votre discord lorsqu'un utilisateur s'est retiré d'un epoch en cours et combien de GIVE ont été remboursés.
+* _Caesar_ peut informer votre discord lorsqu'un utilisateur s'est retiré \(opt-out\) d'un epoch en cours et combien de GIVE ont été remboursés.
 
 ![](../.gitbook/assets/Bot%20Opted%20Out.jpg)
 
@@ -36,17 +36,15 @@ Coordinape a été initialement conçu pour Yearn Finance, une DAO qui utilise �
 
    ![](../.gitbook/assets/Admin.jpg)
 
-5. Cliquer le boutton  **Edit Circle Settings**  et cliquez sur **edit webhook**
+5. Cliquer le bouton  **Edit Circle Settings** et cliquez sur **Edit webhook**
 
    ![](../.gitbook/assets/Circle%20Settings.jpg)
 
-6. Coller l'url du webhook url  du bot Discord \(étape 3\) dans le champ dédié puis cliquez sur **Save**
+6. Coller l'url  webhook du bot Discord \(étape 3\) dans le champ dédié puis cliquez sur **Save**
 
 ![](../.gitbook/assets/Discord%20Webook.jpg)
 
-### BOOM! Vous avez maintenant Caesar qui vous aide à garder une trace des epoch actifs, vous avertit lorsque les utilisateurs realisent des allocations et vous permet de savoir si un utilisateur se désengage. Nous ajouterons des fonctionnalités au bot au fil du temps, mais en attendant, nous espérons que vous apprécierez ces fonctionnalités !!
-
-
+### BOOM! Vous avez maintenant Caesar à vos côtés pour vous aider à garder une trace des epochs actifs, vous avertir lorsque les utilisateurs réalisent des allocations et vous permettre de savoir lorsqu'un utilisateur se désengage \(opt-out\). Nous ajouterons des fonctionnalités au bot au fil du temps, mais en attendant, nous espérons que vous apprécierez ces fonctionnalités !!
 
 Si vous appréciez _ce Bot_, faite le savoir à Zashton ! 
 
