@@ -20,15 +20,15 @@ A noter: vous devrez connecter votre portefeuille lorsque vous accéderez à un 
 
 La première fois que vous utilisez Coordinape, il vous sera demandé de répondre à quelques questions, ce qui aidera vos collègues à déterminer combien de GIVE vous donner.
 
- La première est une description de votre profil. Cela peut être n'importe quoi. Il est public et sera visible par tous les membres du Cercle. ll peut donc être utilisé pour détailler le travail que vous avez effectué ce mois-ci ou clarifier ce pour quoi vous avez été rémunéré et ce pour quoi vous souhaitez être rémunéré durant cet epoch.
+La première est une description de votre profil. Cela peut être n'importe quoi. Il est public et sera visible par tous les membres du Cercle. Il peut donc être utilisé pour détailler le travail que vous avez effectué ce mois-ci ou clarifier ce pour quoi vous avez été rémunéré et ce pour quoi vous souhaitez être rémunéré durant cet epoch.
 
- La deuxième question est de savoir si vous allez accepter ou refuser de recevoir des GIVE pour durant cet epoch.
+ La deuxième question est de savoir si vous allez accepter ou refuser de recevoir des GIVE durant cet epoch.
 
-*  Si vous vous excluez \(_Opt Out\)_, vous signalez que vous avez d'autres sources de revenus provenant de Yearn qui sont importantes et que vous ne devriez pas recevoir de récompenses via coordinape. Il est également de sélectionner cette option, si vous n'avez pas contribué durant le mois \(ou la période définie\) precedent.  Il sera impossible pour les autres de vous donner des GIVE.
+*  Si vous vous excluez \(_Opt Out\)_, vous signalez que vous avez d'autres sources de revenus provenant de Yearn qui sont importantes et que vous ne devriez pas recevoir de récompenses via coordinape. Il est également important de sélectionner cette option, si vous n'avez pas contribué durant le mois \(ou la période définie\) précédent.  Il sera ainsi impossible pour les autres membres de vous donner des GIVE.
 
 * Si vous vous inscrivez \(_Opt In\),_ vous pourrez recevoir des GIVE. Vous pouvez utiliser la description de votre profil pour expliquer qu'elles en sont les raisons. 
 
-L'un ou l'autre de ces paramètres peut être modifié au cours de l'epoch, ou pour les epochs futurs, en accédant à votre profil sur la page d'allocation \(Allocation Page \) pour les modifier. Si vous changez votre statut en Opt Out après avoir reçu des GIVE pendant un epoch, tous les GIVE que vous avez accumulés seront renvoyés aux personnes vous les ayants alloués.
+L'un ou l'autre de ces paramètres peut être modifié au cours de l'epoch, ou pour les epochs futurs, en accédant à votre profil sur la page d'allocation \(Allocation Page\) pour les modifier. Si vous changez votre statut en Opt Out après avoir reçu des GIVE pendant un epoch, tous les GIVE que vous avez accumulés seront renvoyés aux personnes vous les ayants alloués.
 
 ## Éditer la page d'équipe \(Team Page\)
 
@@ -39,7 +39,7 @@ Vous serez  ensuite invité à utiliser la page de Sélection d'équipe \(Team P
 Sur cette page, vous pouvez sélectionner n'importe quel nombre de contributeurs, les trier ou chercher directement un membre avec son nom, pour trouver ceux avec lesquels vous avez le plus interagi.
 
 * Le nombre de GIVE déjà alloué à chaque contributeur est indiqué pour que vous puissiez voir y retrouver plus facilement.
-* Si vous supprimez un contributeur de votre liste après lui avoir attribué des GIVE, ses GIVE vous seront restitués \(dans l'epoch en cours\).
+* Si vous supprimez un contributeur de votre liste après lui avoir attribué des GIVE, ses GIVE vous seront restitués \(lors de l'epoch en cours\).
 * Après avoir sélectionné votre liste initiale, vous pouvez revenir sur cette page pour modifier votre équipe.
 
 ##  Page d'Allocation \(Allocation page\) <a id="allocation-page"></a>
@@ -72,11 +72,11 @@ Coordinape fournit un graphique en temps réel pour montrer le mouvement de GIVE
 
 * Cliquez sur un avatar pour voir une représentation animée du GIVE circulant vers et depuis chaque membre. 
 * Les bandes autour du membre représentent le nombre de GIVE total que le membre a reçu durant l'epoch.
-*  Vous pouvez également basculer pour afficher les époques précédentes, en utilisant le lien Epoch en haut à droite.
+*  Vous pouvez également basculer pour afficher les epochs précédents, en utilisant le lien Epoch en haut à droite.
 
 ## Page de l'historique \(History Page\)
 
-La page Historique vous permet de voir les GIVES que vous avez reçus, par membre, à n'importe quel epoch qui a déjà eu lieu.
+La page Historique vous permet de voir les GIVE que vous avez reçus, par membre, à n'importe quel epoch qui a déjà eu lieu.
 
 ![](../.gitbook/assets/How_to_Coordinape8.jpg)
 
