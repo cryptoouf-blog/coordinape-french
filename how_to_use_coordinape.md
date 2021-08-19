@@ -19,7 +19,7 @@
 
 <img src="/images/How_to_Coordinape4.jpg">
 
-<p>The first time you use Coordinape, you will be asked to answer a couple of questions, which will help your colleagues at Yearn to determine how to GIVE to you.</p>
+<p>The first time you use Coordinape, you will be asked to answer a couple of questions, which will help your colleagues determine how to GIVE to you.</p>
 
 <p>The first one is a Profile Statement.  This can be anything.  It is public for anyone in the Circle to read, and can be used to detail the work you have done this month or clarify what you have been compensated for, and what you want to be compensated for in Coordinape.</p>
 
