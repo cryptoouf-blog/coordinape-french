@@ -1,11 +1,11 @@
 # Bienvenue sur Coordinape
 
-Coordinape est une plateforme permettant aux DAOs de distribuer facilement et équitablement des récompenses aux contributeurs. Les subventions communautaires, les salaires internes et les projets spéciaux peuvent tous être encouragés et récompensés par la communauté elle-même. Au lieu de comités de vote ou de boîte noire encombrants, les contributeurs eux-mêmes peuvent récompenser rapidement et de manière transparente la valeur qu'ils voient être créée.  
+Coordinape est une plateforme permettant aux DAOs de distribuer facilement et équitablement des récompenses aux contributeurs. Les subventions communautaires, les salaires internes et les projets spéciaux peuvent tous être encouragés et récompensés par la communauté elle-même. Au lieu d'avoir des comités votant les récompenses ou d'avoir une "boîte noire" opaque, les contributeurs eux-mêmes peuvent récompenser rapidement et de manière transparente la valeur qu'ils voient être créée.  
 
 
 ## Vision <a id="vision"></a>
 
-La promesse des DAOs est une collaboration décentralisée, où des équipes de personnes peuvent résoudre ensemble des problèmes difficiles et partager les récompenses de leur travail. Au fur et à mesure que le potentiel révolutionnaire des DAOs devient de plus en plus évident, leurs défis et leurs limites le font aussi, en particulier par ceux qui opèrent en leur sein. Coordinape vise à rendre l'expérience des personnes travaillant dans DAOs plus dynamique, enrichissante et équitable.
+La promesse des DAOs est une collaboration décentralisée, où des équipes de personnes peuvent résoudre ensemble des problèmes difficiles et partager les récompenses de leur travail. Au fur et à mesure que le potentiel révolutionnaire des DAOs devient de plus en plus évident, leurs défis et leurs limites le deviennent aussi, en particulier pour ceux qui opèrent en leur sein. Coordinape vise à rendre l'expérience des personnes travaillant dans des DAOs plus dynamique, enrichissante et équitable.
 
 Coordinape permet d'accroitre la prise de décision par la communauté.De façon simple ,vous demandez à tous les membres de la communauté, qui font du bon travail, leurs avis. De façon collective cela donnera une bonne idée de la valeur du travail de chacun et des membres qui devrait être le plus récompensé. Au fil du temps, cela fournit également des informations précieuses pour la DAO sur les types de travail prioritaires, ce que la communauté trouve le plus précieux et qui sont les principaux contributeurs dans différents domaines. L'affichage visuel et partagé permet également à tous les membres de la communauté de voir qui travaille sur quoi et de trouver des opportunités de collaboration ou de réduire la duplication des efforts.
 
