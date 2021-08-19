@@ -21,6 +21,6 @@ Budget distribution is then formulated according to the percentage of total GET 
 * Total GETs allocated during the epoch are 1500, 
 * Total Contributor Budget is 50,000 USDC
 
-* Joe is sent 2,500  USDC (0.05 of Budget).
+* Joe is sent 2,500  USDC (5% of Budget determined by taking 75/1500).
 
 
